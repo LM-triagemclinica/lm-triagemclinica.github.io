@@ -1,0 +1,1 @@
+# lm-triagemclinica.github.io
