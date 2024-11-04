@@ -1,0 +1,32 @@
+/* Estilos principais */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  background-color: #FFEFEF;
+}
+
+main,
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #FFFFFF;
+  min-height: 200px;
+  max-width: 380px;
+  padding: 45px 40px 30px;
+  border-radius: 10px;
+  margin: 40px auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+p {
+  margin-bottom: 10px;
+}
